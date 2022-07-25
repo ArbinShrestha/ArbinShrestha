@@ -1,4 +1,10 @@
-### Hi there 👋 Welcome to Wild Wild west Repo of mine where I have everything that relates to what I like to code about and basically a digital tracker of things that I do.
+## Hi, this is Arbin 👋 Passionately learning and figuring things out 🤔
+
+- 🔭 I’m currently working on 100DaysOfCode
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me: orbeenshr@gmail.com
+
+
 
 <!--
 **ArbinShrestha/ArbinShrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
