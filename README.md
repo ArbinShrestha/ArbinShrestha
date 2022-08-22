@@ -1,7 +1,16 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Arbin </h1>
+<h3 align="center">Passionately learning and figuring things out</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
-🔭 I’m currently working on 100DaysOfCode<br>👯 I’m looking to collaborate on React<br>🤝 I’m looking for help with leaning<br>🌱 I’m currently learning TS + JS<br>💬 Ask me about anything<br>⚡ Fun fact : you can be My Peanut Butter Chocolate Cake with Kool-aid
 
+- 🔭 I’m currently working on **100DaysOfCode**
+
+- 🌱 I’m currently learning **TS + JS**
+
+- 👯 I’m looking to collaborate on **React**
+
+- 💬 Ask me about **something**
+
+- ⚡ Fun fact : **you can be My Peanut Butter Chocolate Cake with Kool-aid***
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/warlordzankrow) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arabian_knights) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arbin-shrestha-aa364519a) 
