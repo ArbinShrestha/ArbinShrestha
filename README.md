@@ -27,4 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arbinshrestha&" alt="arbinshrestha" /></p>
 
-![snake gif](https://github.com/ArbinShrestha/ArbinShrestha/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/ArbinShrestha/ArbinShrestha/blob/output/github-contribution-grid-snake.svg)
+
