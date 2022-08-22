@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **100DaysOfCode**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **TypeScript + JavaScript**
 
 - 👯 I’m looking to collaborate on **React**
 
